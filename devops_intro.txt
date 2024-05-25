@@ -1,0 +1,20 @@
+What is devops? It is a culture that improve the organizational’s ability to deliver their application. Devops is a process of increasing the ability to deliver your applications in the
+	-Improve the delivery
+	-improve the automation
+	-improve the quality of the application & testing
+	-monitor the product
+
+it is a process of improving the application delivery quicker by ensuring that there is a proper automation, proper quality is in place, proper continuous monitoring and a continuous testing.
+For example if an application is deliver in 2 weeks as devops engineer, you have reduce that to 1 week or couple day by ensuring that you have automation, quality continuous monitoring and testing in place.
+
+as devops engineer I have the capacity to adapt myself to a new tools
+In the past I am coming from system admin to system engineer and couple years from now I have transitioned devops engineer. I was very passionate learning about those tools and it was not very difficult for me the fact that I was used to them as a system engineer such as automated system configuration, system infrastructure. In current organization I take care of automation. I ensure that quality is maintain for the application, I ensured that I have setup continuous monitoring and I have automated testing process into devops lifecycle. For the CI/CD I am using Jenkins and Github action, for the deployment of application into container orchestration I am using Kubernetes, for system configuration I am using ansible and terraform for building infrastructure automation.
+
+Software Development Lifecycle (SDLC): is a standard follow by an organization, it is a process or culture  used by the software industry to design, develop, and test in order to deliver high quality product. Example of E-Commerce
+Planning/requirementsdefiningdesigning(High Level Design/Low Level Design)=system has to be scalable, HABuildingtestingDeploy.
+As devops engineer your main focus will be improving and automating “Building, testing and deployment” of the application :
+     Building: developer write the application code based on their favourite language using the designing document then push the code to common location = Source Code Repository (Github)
+         Testing: Application stored in Git is deployed in the server. We have Quality Assurance engineer take care of testing the software
+                  Deployment: After testing, application is promoted to production for customer
+Devops engineer will ensure all those three process is completed quickly in automated way.
+In order to complete the project we will use Agile module by taking in short sprint. Each sprint is a completion of each steps of process.
