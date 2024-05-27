@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
 sa c du nouvo
 
 I am doing the stash test
+=======
+sa c du nouvo.
+
+je vais essayer le code
+>>>>>>> Stashed changes
